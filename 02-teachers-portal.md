@@ -2,7 +2,7 @@
 
 Every staff member gets their own teaching pages. On top of that, the owner can give each person access to any admin page, one page at a time, as view or edit.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ```mermaid
 flowchart TB

@@ -2,7 +2,7 @@
 
 How Clarvix is hosted, monitored and kept running. The whole backend is self-hosted: Supabase runs in Docker on one Oracle Cloud server, and the web apps run on Cloudflare.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ---
 

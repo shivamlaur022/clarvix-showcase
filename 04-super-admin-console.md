@@ -2,7 +2,7 @@
 
 Where Clarvix itself is run: schools, billing, product, communications, support, operations, company HR, compliance and security. 36 pages. Every Clarvix employee only sees what their role allows. Sign-in needs 2-step verification, and sensitive actions ask for it again.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ```mermaid
 flowchart LR

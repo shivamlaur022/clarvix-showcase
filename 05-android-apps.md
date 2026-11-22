@@ -2,7 +2,7 @@
 
 Five apps, all signed releases and installed through Clarvix's own app store (X. Store). The device apps pair with a school using a 6-digit code or QR, work offline, and support English and Hindi.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ```mermaid
 flowchart TB

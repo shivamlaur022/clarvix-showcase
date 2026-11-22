@@ -2,7 +2,7 @@
 
 For families. Works on the web and as an Android app. Five sections: **Home, Learn, Fees, Inbox, More**. A child switcher is included for families with more than one child.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ```mermaid
 flowchart LR

@@ -71,13 +71,13 @@ flowchart TB
 
 | Doc | What's inside |
 |---|---|
-| [School admin portal](docs/01-school-admin-portal.md) | Every sidebar section and page, with flow charts for admissions, attendance, fees, transport and payroll |
-| [Teachers portal](docs/02-teachers-portal.md) | Teaching pages, and how the owner grants access page by page |
-| [Parent portal](docs/03-parent-portal.md) | Learn, fees, inbox, transport and more |
-| [Super-admin console](docs/04-super-admin-console.md) | Running the platform: schools, billing, product, support, compliance |
-| [Android apps](docs/05-android-apps.md) | All 5 apps, screen by screen |
-| [Website & public pages](docs/06-website-and-public-pages.md) | Marketing site and each school's admission pages |
-| [Infrastructure & operations](docs/07-infrastructure-and-operations.md) | Docker setup, Grafana monitoring, 52 jobs, emails, billing automation, releases |
+| [School admin portal](01-school-admin-portal.md) | Every sidebar section and page, with flow charts for admissions, attendance, fees, transport and payroll |
+| [Teachers portal](02-teachers-portal.md) | Teaching pages, and how the owner grants access page by page |
+| [Parent portal](03-parent-portal.md) | Learn, fees, inbox, transport and more |
+| [Super-admin console](04-super-admin-console.md) | Running the platform: schools, billing, product, support, compliance |
+| [Android apps](05-android-apps.md) | All 5 apps, screen by screen |
+| [Website & public pages](06-website-and-public-pages.md) | Marketing site and each school's admission pages |
+| [Infrastructure & operations](07-infrastructure-and-operations.md) | Docker setup, Grafana monitoring, 52 jobs, emails, billing automation, releases |
 
 ---
 
@@ -113,7 +113,7 @@ flowchart LR
     OR -. metrics .-> GF
 ```
 
-Full container-by-container diagram: [Infrastructure & operations](docs/07-infrastructure-and-operations.md).
+Full container-by-container diagram: [Infrastructure & operations](07-infrastructure-and-operations.md).
 
 ---
 

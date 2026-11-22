@@ -2,7 +2,7 @@
 
 The main portal for the school owner and the staff they give access to. About 97 pages, organized in the sidebar below.
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ```mermaid
 flowchart LR

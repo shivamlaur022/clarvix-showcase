@@ -1,6 +1,6 @@
 # Website and public pages
 
-[← Back to overview](../README.md)
+[← Back to overview](README.md)
 
 ## Clarvix marketing website (41 pages)
 
